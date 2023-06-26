@@ -25,7 +25,18 @@ o   Average rating of most popular Cuisines.
 
 o    Average price for most popular Cuisines.
 
-##  <img src=
+
+
+###  <img src="https://github.com/Vishwanath-J-25/SwiggyDataAnalysis/assets/137754888/1a7a3146-fd02-4801-a365-22b7de55c3a6" width="48" height="48" > Quick Start
+
+1. Import the data using Selenium and ChromeDriverManager libraries.
+
+2. Once we got the data , stated analysing the data by using pandas.
+
+3. Imported the aggregated data into Excel for further Analysis and Visualisation.
+
+<p align="center"><img src="
+
   
 
 
