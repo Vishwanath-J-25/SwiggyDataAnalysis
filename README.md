@@ -11,4 +11,22 @@ insights from it,which will help management to make decisions.
 <br>
 
 <p align="center"><img src=https://github.com/Vishwanath-J-25/SwiggyDataAnalysis/assets/137754888/135f18e2-1329-4605-91b2-9b1d6f1e4743" width="600" ></p>
-##  <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/8e952995-c32d-4703-a9dd-92d1914cc6d9"  width="48" height="48"> Analysis
+
+##  <img src="https://github.com/Vishwanath-J-25/SwiggyDataAnalysis/assets/137754888/d0cb78da-cc6b-42b1-857c-cf11f73279d7"  width="48" height="48"> Analysis
+o   Highest number of orders placed in Bangalore District.
+
+o   Location with maximum number of restraunt where delivery review number is more than 1000.
+
+o   Analysing the location with the maximum number of less rated restraunt.
+
+o   To check the most popular cuisines in Bangalore.
+
+o   Average rating of most popular Cuisines.
+
+o    Average price for most popular Cuisines.
+
+##  <img src=
+  
+
+
+
